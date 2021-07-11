@@ -78,4 +78,14 @@ If one or more matched were founded, it will be:
 ]
 ```
 
+Where "1" mean the best match, "2" the second best match, and so forth.
+
+If there are no matches, the result will be an empty list, like
+```
+[
+	{
+	}
+]
+```
+
 #### p.s.: The approach in this algorithm uses lists, but could be done using class/object as well.
