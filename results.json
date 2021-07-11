@@ -1,0 +1,39 @@
+[
+    {
+        "1": {
+            "restaurant_name": "Bang Delicious",
+            "customer_rating": 5,
+            "distance": 2,
+            "price": 15,
+            "cuisine": "18"
+        },
+        "2": {
+            "restaurant_name": "Crisp Delicious",
+            "customer_rating": 5,
+            "distance": 2,
+            "price": 45,
+            "cuisine": "18"
+        },
+        "3": {
+            "restaurant_name": "Gusto Delicious",
+            "customer_rating": 5,
+            "distance": 3,
+            "price": 50,
+            "cuisine": "2"
+        },
+        "4": {
+            "restaurant_name": "Local Delicious",
+            "customer_rating": 5,
+            "distance": 4,
+            "price": 20,
+            "cuisine": "12"
+        },
+        "5": {
+            "restaurant_name": "Deliciousbea",
+            "customer_rating": 5,
+            "distance": 6,
+            "price": 50,
+            "cuisine": "15"
+        }
+    }
+]
